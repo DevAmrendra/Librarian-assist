@@ -5,6 +5,4 @@ if pages <= 100:
 elif pages > 100 and pages <= 300:
     print("Medium Book")
 else:
-    print("Long Book")
-
-=
+    print("Long Book") 
